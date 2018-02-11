@@ -4,7 +4,7 @@
 ## Installation
 
 ```
-yarn add react-native-image-progress
+yarn add https://github.com/fendorio/react-native-image-progress.git
 ```
 
 **Note: Progress indicators has been broken out to a separate component; [react-native-progress](https://github.com/oblador/react-native-progress). To use them, please follow installation instructions for that package.**
